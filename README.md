@@ -188,7 +188,7 @@
 <!-- Footer -->
 <footer class="text-white py-4">
   <div class="container text-center">
-    <p class="mb-1">&copy; 2025 Viajes El Salvador. Todos los derechos reservados.</p>
+    <p class="mb-1">&copy; 2026 Viajes El Salvador. Todos los derechos reservados.</p>
     <div>
       <a href="#" class="text-white me-3"><i class="fa-brands fa-facebook-f"></i></a>
       <a href="#" class="text-white me-3"><i class="fa-brands fa-instagram"></i></a>
